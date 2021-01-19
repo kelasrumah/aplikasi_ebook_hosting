@@ -1,7 +1,7 @@
 # aplikasi_ebook_hosting
 
 
-<img src="https://kelasrumahofficial.github.io/file/kelasrumah.png" width="200px">
+<img src="https://kelasrumah.github.io/file/kelasrumah.png" width="200px">
 
 Membuat Aplikasi Buku Digital (PDF) App Inventor menggunakan Hosting/Github di App Inventor | Appybuilder | Thunkable - kelasrumah Tanpa Coding, sangat cocok untuk pemula dan cocok untuk dipelajari lebih lanjut tidak menggunakan coding, tanpa coding serta mudah digunakan dan dapat di jadikan pemasukan tambahan.
 
